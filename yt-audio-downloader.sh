@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 echo "Introduce the URL of the video -> "
 read url
